@@ -1,0 +1,789 @@
+{
+    "pt": [
+        {
+            "pageUrl": "",
+            "pageTitle": "Página Inicial",
+            "pageThumb": "images/thumb-home-pt.jpg",
+            "pageDesc": "Presença global e experiência no mercado internacional. Atuação em mais de 15 países, com presença geográfica relevante, oferecendo completa cobertura de serviços e vasto portfólio de produtos.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Página Inicial"
+                    ]
+                },
+                {
+                    "area": "#banners",
+                    "strings": [
+                        "Presença global e experiência no mercado internacional. Atuação em mais de 15 países, com presença geográfica relevante, oferecendo completa cobertura de serviços e vasto portfólio de produtos.",
+                        "Segurança, confiança, agilidade e transparência em todos os atendimentos.",
+                        "Processos digitais, simples e inovadores."
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "Excelência em pessoas e processos.",
+                        "Equipe",
+                        "Toda a equipe da S3 Caceis possui larga experiência em serviços fiduciários e acompanha de perto cada atividade de fundos de investimentos.",
+                        "Segurança",
+                        "Cuidamos de segurança da informação e de, garantindo qualidade, estabilidade e continuidade dos processos e das relações com nossos clientes.",
+                        "Tradição",
+                        "A S3 Caceis conta com a tradição e a solidez das marcas Santander e Caceis para oferecer serviços fiduciários e de custódia de acordo com o perfil, o segmento, os desafios e os objetivos de cada cliente.",
+                        "Produtos",
+                        "Profissionais capacitados para desenvolver soluções personalizadas de acordo com as necessidades dos clientes."
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Canais de Atendimento",
+                        "Serviço de Atendimento ao Cliente (SAC)",
+                        "Reclamações, cancelamentos, sugestões e informações gerais. Atende, também, pessoas com deficiência auditiva ou de fala.",
+                        "Atendimento: De segunda-feira a sexta-feira, das 9h às 18h, exceto feriados.",
+                        "4004 4412 (capital e regiões metropolitanas)",
+                        "0800 722 4412 (demais regiões)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Endereço de correspondência:",
+                        "R. Amador Bueno, 474, 1º andar, Bairro Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Ouvidoria",
+                        "Se não ficar satisfeito com a solução apresentada, envie sua reclamação para",
+                        "sc_ouvidoria@s3caceis.com.br ou ligue para 0800 723 5076.",
+                        "Atendimento: De segunda-feira a sexta-feira, das 9h às 18h, exceto feriados.",
+                        "Atendimento para pessoas com deficiência auditiva ou de fala: sc_ouvidoria@s3caceis.com.br.",
+                        "Endereço de correspondência:",
+                        "R. Amador Bueno, 474, 1º andar, Bairro Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Canal Aberto",
+                        "Canal dedicado a denúncias ou ao esclarecimento de dúvidas relacionadas a conduta inadequada ou antiética. O atendimento é via Banco Santander. Este canal é sigiloso e a manifestação pode ser identificada ou anônima.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br "
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "quem-somos.html",
+            "pageTitle": "Quem Somos",
+            "pageThumb": "images/thumb-quemsomos-pt.jpg",
+            "pageDesc": "Quando se trata de serviços fiduciários, segurança, confiança, agilidade e transparência são princípios fundamentais por parte de quem os realiza. Após mais de 20 anos de experiência nesse mercado, a S3 (Santander Securities Services) se juntou à Caceis, em 2019, formando uma parceria estratégica e se tornando um dos maiores players globais em Asset Servicing: a S3 Caceis.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Quem Somos"
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "Quando se trata de serviços fiduciários, segurança, confiança, agilidade e transparência são princípios fundamentais por parte de quem os realiza. ",
+                        "Após mais de 20 anos de experiência nesse mercado, a S3 (Santander Securities Services) se juntou à Caceis, em 2019, formando uma parceria estratégica e se tornando um dos maiores players globais em Asset Servicing: a S3 Caceis. "
+                    ]
+                },
+                {
+                    "area": "#image",
+                    "strings": [
+                        "Além das sinergias comerciais, a empresa é fruto da união de dois dos maiores grupos bancários internacionais: Credit Agricole e Santander."
+                    ]
+                },
+                {
+                    "area": "#missao",
+                    "strings": [
+                        "Com a missão de transformar a burocracia dos processos fiduciários em algo muito mais simples, contamos, atualmente, com uma ampla cobertura de serviços e com um extenso portfólio de produtos. Atuamos com soluções e com profissionais especializados e, em virtude de nossa presença global, desempenhamos um posicionamento competitivo na América Latina."
+                    ]
+                },
+                {
+                    "area": "#beneficios",
+                    "strings": [
+                        "Presença internacional",
+                        "Sinergia com as demais geografias e posicionamento estratégico – LatAm.",
+                        "Capacidade de escala",
+                        "Volume de contratos e prestadores sob a ótica dos Grupos Santander e Caceis.",
+                        "Tecnologia",
+                        "Investimento constante em soluções inovadoras para assegurar a excelência de nossos serviços, além de flexibilizar a interação com nossos clientes e nossos investidores.",
+                        "One stop shop",
+                        "Fácil acesso às áreas de relacionamento e produtos: Tesouraria, Corporate Bank, Cash Management, Private Bank, Mesa de Câmbio, Corretora e Asset Management.",
+                        "Conhecimento e experiência de mercado",
+                        "Profissionais com experiência prática, conhecimento técnico e foco em antecipar-se às necessidades dos clientes, às tendências regulatórias e às melhores práticas de mercado."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "servicos-e-produtos.html",
+            "pageTitle": "Serviços e Produtos",
+            "pageThumb": "images/thumb-servicosprodutos-pt.jpg",
+            "pageDesc": "Nossos serviços e produtos",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Serviços e Produtos"
+                    ]
+                },
+                {
+                    "area": "#servicos",
+                    "strings": [
+                        "Serviços",
+                        "Administração fiduciária",
+                        "Avaliação econômico-financeira periódica dos emissores de crédito privado.",
+                        "Centralização e padronização de regulamentos dos fundos de investimentos.",
+                        "Coordenação dos processos societários e contratuais envolvendo fundos de investimento.",
+                        "Monitoramento das corretoras utilizadas nas operações dos fundos.",
+                        "Acompanhamento do Risco de Liquidez individual dos fundos.",
+                        "Due diligence nos gestores externos.",
+                        "Distribuição",
+                        "Trabalhamos com os modelos de distribuição:",
+                        "Distribuição realizada pelo Santander Securities Services, com processos estruturados de KYC, cadastro e monitoramento da base de clientes.",
+                        "Distribuição de terceiros, com aplicação de Due Diligence e contratação pela SC. ",
+                        "Distribuição direta ou Conta e ordem: estrutura e escala operacional para atendimento a ambos os tipos de distribuição.",
+                        "Todos os modelos têm processos via plataformas digitais:",
+                        "Cadastro digital: portal de interação entre SC, prestadores e investidores, para uma experiência de cadastro ágil, prático e com assinatura digital.",
+                        "Portal do Prestador: canal único de comunicação que permitirá solicitação de atos societários, troca de informações, envio de documentos e acompanhamento das demandas junto à SC.",
+                        "Custódia qualificada ",
+                        "Custódia centralizada para fundos de investimento e carteiras, contemplando liquidação física, financeira e guarda dos ativos.",
+                        "Tratamento das instruções de movimentação e gerenciamento das informações dos eventos associados aos ativos.",
+                        "Gestão e acompanhamento on-line do caixa dos fundos de investimentos.",
+                        "Conciliação diária dos ativos e das posições de ativos.",
+                        "Representação 4373",
+                        "Serviços de Custódia e Representação Legal amparados pela Resolução CMN 4,373 e ICVM 560.",
+                        "Solução integrada de serviços atrelados à atividade, contando com a estrutura do Banco Santander, i.e., Corretora, F/X etc.",
+                        "Sistema global com arquitetura aberta, capacitado para o tratamento dos mais variados tipos de operações no mercado local.",
+                        "Equipe centralizada e especializada para atendimento aos clientes estrangeiros.",
+                        "Atendimento aos diferentes tipos de estruturas e clientes: contas Coletiva e Proprietária.",
+                        "Market information, provendo as informações relevantes de mercado.",
+                        "Suporte aos processos de eventos corporativos e proxy voting.",
+                        "Controladoria",
+                        "Atendimento dedicado à seguradora.",
+                        "Controle de ativos e passivos.",
+                        "Precificação dos ativos nas carteiras.",
+                        "Provisionamento de taxas e despesas.",
+                        "Plataforma web para acesso às informações do passivo e a suas posições.",
+                        "Gerenciamento de procedimentos contábeis.",
+                        "Processamento e cálculo de cotas.",
+                        "Divulgação de rentabilidade das carteiras de fundos.",
+                        "Middle Office Offshore",
+                        "Estrutura de execução operacional para apoiar gestores que acessam o mercado internacional.",
+                        "Interface e relacionamento com gestores e contrapartes.",
+                        "Envio de trades a NAV Calculator, Prime Brokers  e Markit (IRS).",
+                        "Recepcionamento, pre-matching e acompanhamento de 100% dos trades.",
+                        "Trade Affirmation & Confirmation.",
+                        "Suporte às dúvidas dos gestores.",
+                        "Transferências, pagamentos e liquidação das operações.",
+                        "Reconciliação e controle de saldo em conta.",
+                        "Atuação proativa nas inconsistências durante todo o processo.",
+                        "Melhoria de processos e resolução de breaks.",
+                        "Auxílio com informações e questionamentos de auditoria."
+                    ]
+                },
+                {
+                    "area": "#produtos",
+                    "strings": [
+                        "Produtos",
+                        "Carteira administrada",
+                        "Plataforma de atendimento personalizada.",
+                        "Arquitetura aberta de investimentos para todos os tipos de ativos.",
+                        "Centralização de custódia.",
+                        "Ferramenta web para  boletagem das operações e consulta a relatórios de informações: relatórios  de posição, movimento e notas de negociação.",
+                        "Coleta de impostos e emissão do Informe de Rendimentos.555 Fundo",
+                        "Tratamento e controle das especificidades de todas as classes de fundos, com ferramenta de controle e enquadramento de restrições de Mandato e Normas Regulamentares.",
+                        "Parcerias com plataformas globais para investimento no exterior.",
+                        "Plataforma web SANTANDEROPER para boletagem e consulta de informações, com cadeias de acessos parametrizáveis.",
+                        "Integração via webservices para movimentações de ativo e passivo.",
+                        "Soluções automáticas para zeragem de caixa, com fundos de taxas mais baixas que a concorrência e melhor retorno.",
+                        "Monitor do caixa dos fundos de investimento.Fundo de investimento em participações",
+                        "Trabalhamos com estruturas de Fundos Patrimoniais e de Entidades de investimento.",
+                        "Customização de estruturas para diferentes tipos de investimento.",
+                        "Equipe dedicada ao atendimento do produto.",
+                        "Processo robusto e aderente às normas regulatórias de avaliação das investidas.",
+                        "Agilidade no processo de estruturação do fundo.",
+                        "Track-record e liderança comprovados.Fundo de investimento em direitos creditórios",
+                        "Trabalhamos com estruturas de FIDC de Infraestrutura e Crédito Corporativo, Utilities, Agro, Indústria e Comércio Monocedente, Financeiros e Imobiliários.",
+                        "Solução completa de Administração Fiduciária, Custódia e Controladoria de ativos e passivos.",
+                        "Plataforma integrada com produtos de Cash Management do Banco Santander.",
+                        "Estrutura interna para monitoramento dos lastros.Fundo Caixa",
+                        "Grade de fundos disponível na SC, com taxas de administração menores que a concorrência e com melhor rentabilidade.",
+                        "Opção de serviço de zeragem automática nos fundos, para agilidade operacional do dia a dia.",
+                        "Acesso a outros fundos da grade da Santander Asset Management.Investimentos imobiliários",
+                        "Fundos de alocação em ativos mobiliários (CRI, LCI, LH e Cotas de FII).",
+                        "Fundos de alocação em ativos imobiliários com objetivo de Renda e Venda (imóveis prontos com objetivo de ganhos mediante locação e venda).",
+                        "Fundos de Alocação Mista (estratégia que pode contemplar os diversos tipos anteriores).Investimentos Offshore",
+                        "Processo de Governança para aprovação de Prestadores offshore: RTA, NAV, Broker etc.",
+                        "Flexibilidade no processo de troca de informações.",
+                        "Autonomia de análise de novos parceiros, de acordo com a preferência do cliente.",
+                        "Expansão para alocação de fundo local em ativos e fundos do mercado internacional, por meio de prestadores globais parceiros.",
+                        "Morgan Stanley: Reconhecido globalmente pelo serviço de liquidação, custódia e negociação de ativos no exterior.",
+                        "AllFunds: Plataforma com extensa lista de fundos e gestores do mercado offshore."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "contatos.html",
+            "pageTitle": "Contatos",
+            "pageThumb": "images/thumb-contatos-pt.jpg",
+            "pageDesc": "Serviço de Atendimento ao Cliente (SAC), Ouvidoria e Canal Aberto",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Contatos"
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Canais de Atendimento",
+                        "Serviço de Atendimento ao Cliente (SAC)",
+                        "Reclamações, cancelamentos, sugestões e informações gerais. Atende, também, pessoas com deficiência auditiva ou de fala.",
+                        "Atendimento: De segunda-feira a sexta-feira, das 9h às 18h, exceto feriados.",
+                        "4004 4412 (capital e regiões metropolitanas)",
+                        "0800 722 4412 (demais regiões)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Endereço de correspondência:",
+                        "R. Amador Bueno, 474, 1º andar, Bairro Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Ouvidoria",
+                        "Se não ficar satisfeito com a solução apresentada, envie sua reclamação para",
+                        "sc_ouvidoria@s3caceis.com.br ou ligue para 0800 723 5076.",
+                        "Atendimento: De segunda-feira a sexta-feira, das 9h às 18h, exceto feriados.",
+                        "Atendimento para pessoas com deficiência auditiva ou de fala: sc_ouvidoria@s3caceis.com.br.",
+                        "Endereço de correspondência:",
+                        "R. Amador Bueno, 474, 1º andar, Bairro Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Canal Aberto",
+                        "Canal dedicado a denúncias ou ao esclarecimento de dúvidas relacionadas a conduta inadequada ou antiética. O atendimento é via Banco Santander. Este canal é sigiloso e a manifestação pode ser identificada ou anônima.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br "
+                    ]
+                }
+            ]
+        }
+    ],
+    "en": [
+        {
+            "pageUrl": "../en/",
+            "pageTitle": "Homepage",
+            "pageThumb": "images/thumb-home-en.jpg",
+            "pageDesc": "Global presence and experience in the international market. Operating in more than 15 countries, with a relevant geographic presence, offering complete service coverage and a vast product portfolio.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Homepage"
+                    ]
+                },
+                {
+                    "area": "#banners",
+                    "strings": [
+                        "Global presence and experience in the international market. Operating in more than 15 countries, with a relevant geographic presence, offering complete service coverage and a vast product portfolio.",
+                        "Security, trust, agility and transparency in all assistance.",
+                        "SIMPLE AND INNOVATIVE DIGITAL PROCESSES"
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "Excellence in people and processes.",
+                        "Team",
+                        "The entire S3 Caceis team has extensive experience in fiduciary services and closely monitors each investment fund activity.",
+                        "Security",
+                        "We take care of information security and compliance, ensuring quality, stability and continuity of processes and relationships with our customers.",
+                        "Tradition",
+                        "S3 Caceis relies on the tradition and strength of the Santander and Caceis brands to offer fiduciary and custody services according to the profile, segment, challenges and objectives of each client.",
+                        "Products",
+                        "Qualified professionals to develop customized solutions according to the needs of customers."
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Contact",
+                        "Customer Service (SAC)",
+                        "Claims, cancellations, suggestions and general information. It also serves people with hearing or speech impairments.",
+                        "Opening hours: Monday to Friday, 9am to 6pm, except holidays.",
+                        "4004 4412 (capital and metropolitan regions)",
+                        "0800 722 4412 (other regions)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Mailing address:",
+                        "R. Amador Bueno, 474, 1st floor, Bairro Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Ombudsman",
+                        "If you are not satisfied with the solution presented, send your complaint to sc_ouvidoria@s3caceis.com.br or call 0800 723 5076.",
+                        "Opening hours: Monday to Friday, 9am to 6pm, except holidays.",
+                        "Assistance for people with hearing or speech disabilities: sc_ouvidoria@s3caceis.com.br.",
+                        "Mailing address:",
+                        "R. Amador Bueno, 474, 1st floor, Bairro Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Open channel",
+                        "Channel dedicated to reporting or clarifying doubts related to inappropriate or unethical conduct. The service is through Banco Santander. This channel is confidential and the manifestation can be identified or anonymous.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br"
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "../en/about-us.html",
+            "pageTitle": "About us",
+            "pageThumb": "images/thumb-quemsomos-en.jpg",
+            "pageDesc": "When it comes to fiduciary services, security, trust, agility and transparency are fundamental principles for those who perform them. After over 20 years of experience in this market, S3 (Santander Securities Services) joined Caceis in 2019, forming a strategic partnership and becoming one of the largest global players in Asset Servicing: S3 Caceis.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "About us"
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "When it comes to fiduciary services, security, trust, agility and transparency are fundamental principles for those who perform them.",
+                        "After over 20 years of experience in this market, S3 (Santander Securities Services) joined Caceis in 2019, forming a strategic partnership and becoming one of the largest global players in Asset Servicing: S3 Caceis."
+                    ]
+                },
+                {
+                    "area": "#image",
+                    "strings": [
+                        "In addition to the commercial synergies, the company is the result of the union of two of the largest international banking groups: Credit Agricole and Santander."
+                    ]
+                },
+                {
+                    "area": "#missao",
+                    "strings": [
+                        "With the mission of transforming the bureaucracy of fiduciary processes into something much simpler, we currently have a wide coverage of services and an extensive portfolio of products. We work with solutions and with specialized professionals and, due to our global presence, we have a competitive position in Latin America."
+                    ]
+                },
+                {
+                    "area": "#beneficios",
+                    "strings": [
+                        "Benefits",
+                        "International Presence",
+                        "Synergy with other geographies and strategic positioning – LatAm.",
+                        "Scalability",
+                        "Volume of contracts and providers from the perspective of Grupo Santander and Caceis.",
+                        "Technology",
+                        "Constant investment in innovative solutions to ensure the excellence of our services, in addition to making the interaction with our clients and investors more flexible.",
+                        "One stop shop",
+                        "Easy access to relationship areas and products: Treasury, Corporate Bank, Cash Management, Private Bank, Currency Exchange, Brokerage and Asset Management.",
+                        "Knowledge and market experience",
+                        "Professionals with practical experience, technical knowledge and a focus on anticipating customer needs, regulatory trends and the best market practices."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "../en/services-and-products.html",
+            "pageTitle": "Services and Products",
+            "pageThumb": "images/thumb-servicosprodutos-en.jpg",
+            "pageDesc": "Our Services and Products",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Services and Products"
+                    ]
+                },
+                {
+                    "area": "#servicos",
+                    "strings": [
+                        "Services",
+                        "Fiduciary Administration ",
+                        "Periodic economic-financial evaluation of private credit issuers.",
+                        "Centralization and standardization of investment fund regulations.",
+                        "Coordination of corporate and contractual processes involving investment funds.",
+                        "Monitoring of brokers used in fund operations.",
+                        "Monitoring of individual funds' Liquidity Risk ",
+                        "Due diligence for external managers.",
+                        "Distribution",
+                        "We work with the distribution models:",
+                        "Distribution carried out by Santander Securities Services, with structured KYC processes, registration and monitoring of the customer base.",
+                        "Third party distribution, applying Due Diligence and contracting by SC.",
+                        "Direct distribution or Account and order: structure and operational scale to serve both types of distribution.",
+                        "All models have processes through digital platforms:",
+                        "Digital Registration: portal for interaction between SC, providers and investors, for an agile, practical registration experience with digital signature.",
+                        "Provider Portal: a single communication channel that will allow requests for corporate acts, exchange of information, submission of documents and follow-up of demands with SC.",
+                        "Qualified custody",
+                        "Centralized custody for investment funds and portfolios, including physical and financial settlement and asset custody.",
+                        "Handling instructions for moving and managing event information associated with assets.",
+                        "On-line management and monitoring of the cash of investment funds.",
+                        "Daily reconciliation of assets and assets positions.",
+                        "Representation 4373",
+                        "Custody and Legal Representation Services supported by Resolution CMN 4.373 and ICVM 560.",
+                        "Integrated solution of services linked to the activity, with the structure of Santander Bank, i.e., Broker, F/X, etc.",
+                        "Global system with open architecture, capable of handling the most varied types of operations in the local market.",
+                        "Centralized and specialized team to serve foreign customers.",
+                        "Service to different types of structures and customers: Collective and Proprietary accounts.",
+                        "Market information, providing relevant market information.",
+                        "Support to corporate event and proxy voting processes.",
+                        "Controllership",
+                        "Dedicated service to the insurance company.",
+                        "Asset and Liability Control.",
+                        "Asset pricing in portfolios.",
+                        "Fee and expense provisioning.",
+                        "Web platform for accessing information on liabilities and their positions.",
+                        "Management of accounting procedures.",
+                        "Quota processing and calculation.",
+                        "Disclosure of fund portfolio profitability.",
+                        "Middle Office Offshore",
+                        "Operational execution structure to support managers who access the international market.",
+                        "Interface and relationship with managers and counterparties.",
+                        "Submission of trades to NAV Calculator, Prime Brokers and Markit (IRS).",
+                        "Reception, pre-matching and monitoring of 100% of trades.",
+                        "Trade Affirmation & Confirmation.",
+                        "Support for managers' questions.",
+                        "Transfers, payments and settlement of transactions.",
+                        "Reconciliation and control of account balance.",
+                        "Proactive action on inconsistencies during the entire process.",
+                        "Process improvement and break resolution.",
+                        "Assistance with audit information and questions."
+                    ]
+                },
+                {
+                    "area": "#produtos",
+                    "strings": [
+                        "Products",
+                        "Managed portfolio",
+                        "Personalized service platform.",
+                        "Open investment architecture for all asset types.",
+                        "Custody centralization.",
+                        "Web tool for registering transactions and consulting information reports: position reports, movement and trading notes.",
+                        "Collecting taxes and issuing the Income Report.",
+                        "555 Fund",
+                        "Treatment and control of the specifics of all classes of funds, with a control tool and framework of Mandate restrictions and Regulatory Norms.",
+                        "Partnerships with global platforms for investment abroad.",
+                        "SANTANDEROPER web platform for billing and querying information, with configurable access chains.",
+                        "Integration via web services for asset and liability transactions.",
+                        "Automatic solutions for zero cash, with funds with lower fees than the competition and better returns.",
+                        "Monitor the cash of investment funds.",
+                        "Equity investment fund",
+                        "We work with structures of Endowment Funds and Investment Entities.",
+                        "Customization of structures for different types of investment.",
+                        "Team dedicated to product service.",
+                        "Robust process that adheres to regulatory standards for evaluating investees.",
+                        "Agility in the process of structuring the fund.",
+                        "Track record and proven leadership.",
+                        "Investment fund in credit rights",
+                        "We work with FIDC structures for Infrastructure and Corporate Credit, Utilities, Agro, Industry and Single-source Commerce, Financial and Real Estate.",
+                        "Complete solution for Fiduciary Administration, Custody and Controllership of assets and liabilities.",
+                        "Integrated platform with Banco Santander's Cash Management products.",
+                        "Internal structure for monitoring ballast.",
+                        "Cash Fund",
+                        "Range of funds available at SC, with lower management fees than the competition and with better profitability.",
+                        "Option of automatic zeroing service in the funds, for operational agility on a daily basis.",
+                        "Access to other Santander Asset Management funds.",
+                        "Property investments",
+                        "Allocation funds in securities assets (CRI, LCI, LH and FII Quotas).",
+                        "Allocation funds in real estate assets with the objective of Income and Sale (property ready with the objective of gains through lease and sale).",
+                        "Mixed Allocation Funds (strategy that can include the different types of funds above).",
+                        "Offshore Investments",
+                        "Governance Process for approval of offshore Providers: RTA, NAV, Broker etc.",
+                        "Flexibility in the information exchange process.",
+                        "Autonomy of analysis of new partners, according to the customer's preference.",
+                        "Expansion for local fund allocation in international market assets and funds, through partner global providers.",
+                        "Morgan Stanley: Globally recognized for the settlement, custody and trading of assets abroad.",
+                        "AllFunds: Platform with an extensive list of funds and managers in the offshore market."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "../en/contact.html",
+            "pageTitle": "Contact",
+            "pageThumb": "images/thumb-contatos-en.jpg",
+            "pageDesc": "Customer Service (SAC), Ombudsman and Open channel",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Contact"
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Contact",
+                        "Customer Service (SAC)",
+                        "Claims, cancellations, suggestions and general information. It also serves people with hearing or speech impairments.",
+                        "Opening hours: Monday to Friday, 9am to 6pm, except holidays.",
+                        "4004 4412 (capital and metropolitan regions)",
+                        "0800 722 4412 (other regions)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Mailing address:",
+                        "R. Amador Bueno, 474, 1st floor, Bairro Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Ombudsman",
+                        "If you are not satisfied with the solution presented, send your complaint to sc_ouvidoria@s3caceis.com.br or call 0800 723 5076.",
+                        "Opening hours: Monday to Friday, 9am to 6pm, except holidays.",
+                        "Assistance for people with hearing or speech disabilities: sc_ouvidoria@s3caceis.com.br.",
+                        "Mailing address:",
+                        "R. Amador Bueno, 474, 1st floor, Bairro Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Open channel",
+                        "Channel dedicated to reporting or clarifying doubts related to inappropriate or unethical conduct. The service is through Banco Santander. This channel is confidential and the manifestation can be identified or anonymous.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br"
+                    ]
+                }
+            ]
+        }
+    ],
+    "es": [
+        {
+            "pageUrl": "../es/",
+            "pageTitle": "Pagina Principal",
+            "pageThumb": "images/thumb-home-es.jpg",
+            "pageDesc": "Presencia global y experiencia en el mercado internacional; Operando en más de 15 países, con una presencia geográfica relevante, ofreciendo una cobertura completa de servicios y un amplio portafolio de productos.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Pagina Principal"
+                    ]
+                },
+                {
+                    "area": "#banners",
+                    "strings": [
+                        "Presencia global y experiencia en el mercado internacional; Operando en más de 15 países, con una presencia geográfica relevante, ofreciendo una cobertura completa de servicios y un amplio portafolio de productos.",
+                        "Seguridad, confianza, agilidad y transparencia en todos los servicios.",
+                        "Procesos digitales, simples e innovadores."
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "Excelencia en personas y procesos.",
+                        "Equipo",
+                        "Todo el equipo de S3 Caceis tiene una amplia experiencia en servicios fiduciarios y sigue de cerca la actividad de cada fondo de inversión. ",
+                        "Seguridad",
+                        "Cuidamos la seguridad de la información y el cumplimiento, asegurando la calidad, estabilidad y continuidad de los procesos y relaciones con nuestros clientes.",
+                        "Tradición",
+                        "S3 Caceis se apoya en la tradición y solidez de las marcas Santander y Caceis para ofrecer servicios fiduciarios y de custodia acordes al perfil, segmento, desafíos y objetivos de cada cliente.",
+                        "Productos",
+                        "Profesionales capacitados para desarrollar soluciones personalizadas de acuerdo a las necesidades del cliente."
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Contacto",
+                        "Servicio al Cliente (SAC)",
+                        "Reclamaciones, cancelaciones, sugerencias e información general. También atiende a personas con discapacidad auditiva o del habla.",
+                        "Servicio: De lunes a viernes, de 9 a 18 horas, excepto festivos.",
+                        "4004 4412 (capital y regiones metropolitanas)",
+                        "0800 722 4412 (otras regiones)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Dirección de envio:",
+                        "R. Amador Bueno, 474, 1° piso, Barrio Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Oidoría ",
+                        "Si no está satisfecho con la solución presentada, envíe su reclamación a sc_ouvidoria@s3caceis.com.br o llame al 0800 723 5076.",
+                        "Servicio: De lunes a viernes, de 9 a 18 horas, excepto festivos.",
+                        "Asistencia para personas con discapacidad auditiva o del habla: sc_ouvidoria@s3caceis.com.br.",
+                        "Dirección de envio:",
+                        "R. Amador Bueno, 474, 1° piso, Barrio Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Canal abierto",
+                        "Canal dedicado a denunciar o aclarar dudas relacionadas con conductas inapropiadas o poco éticas. El servicio es a través de Banco Santander. Este canal es confidencial y la manifestación puede ser identificada o anónima.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br"
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "../es/quienes-somos.html",
+            "pageTitle": "Quiénes Somos",
+            "pageThumb": "images/thumb-quemsomos-en.jpg",
+            "pageDesc": "Cuando se trata de servicios fiduciarios, la seguridad, confianza, agilidad y transparencia son principios fundamentales por parte de quien los realiza. Luego de más de 20 años de experiencia en este mercado, S3 (Santander Securities Services) se unió a Caceis en 2019, formando una alianza estratégica y convirtiéndose en uno de los mayores actores globales en Asset Servicing: S3 Caceis.",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Quiénes Somos"
+                    ]
+                },
+                {
+                    "area": "#sobre",
+                    "strings": [
+                        "Cuando se trata de servicios fiduciarios, la seguridad, confianza, agilidad y transparencia son principios fundamentales por parte de quien los realiza.",
+                        "Luego de más de 20 años de experiencia en este mercado, S3 (Santander Securities Services) se unió a Caceis en 2019, formando una alianza estratégica y convirtiéndose en uno de los mayores actores globales en Asset Servicing: S3 Caceis."
+                    ]
+                },
+                {
+                    "area": "#image",
+                    "strings": [
+                        "Además de las sinergias comerciales, la compañía es el resultado de la fusión de dos de los mayores grupos bancarios internacionales: Credit Agricole y Santander."
+                    ]
+                },
+                {
+                    "area": "#missao",
+                    "strings": [
+                        "Con la misión de transformar la burocracia de los procesos fiduciarios en algo mucho más sencillo, actualmente contamos con una amplia cobertura de servicios y un extenso portafolio de productos. Trabajamos con soluciones y con profesionales especializados y, debido a nuestra presencia global, tenemos una posición competitiva en Latinoamérica."
+                    ]
+                },
+                {
+                    "area": "#beneficios",
+                    "strings": [
+                        "Beneficios",
+                        "Presencia Internacional",
+                        "Sinergia con otras geografías y posicionamiento estratégico – LatAm.",
+                        "Escalabilidad",
+                        "Volumen de contratos y proveedores desde el punto de vista de los Grupos Santander y Caceis.",
+                        "Tecnología",
+                        "Inversión constante en soluciones innovadoras para asegurar la excelencia de nuestros servicios, además de flexibilizar la interacción con nuestros clientes e inversores.",
+                        "One stop shop ",
+                        "Fácil acceso a las áreas de relación y productos: Tesorería, Banca Corporativa, Gestión de Caja, Banca Privada, Mesa de Cambio, Correduría y Gestión de Activos.",
+                        "Conocimiento y experiencia del mercado",
+                        "Profesionales con experiencia práctica, conocimiento técnico y enfoque en anticipar las necesidades del cliente, las tendencias regulatorias y las mejores prácticas mercado."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "servicos-e-produtos.html",
+            "pageTitle": "Servicios y Productos",
+            "pageThumb": "images/thumb-servicosprodutos-pt.jpg",
+            "pageDesc": "Nuestros Servicios y Productos",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Servicios y Productos"
+                    ]
+                },
+                {
+                    "area": "#servicos",
+                    "strings": [
+                        "Servicios",
+                        "Administración Fiduciaria",
+                        "Evaluación económica y financiera periódica de los emisores de crédito privado.",
+                        "Centralización y homogeneización de la normativa de fondos de inversión.",
+                        "Coordinación de procesos societarios y contractuales de fondos de inversión.",
+                        "Seguimiento de los intermediarios utilizados en las operaciones de los fondos.",
+                        "Monitoreo del Riesgo de Liquidez de fondos individuales.",
+                        "Due diligence de los gestores externos.",
+                        "Distribución",
+                        "Trabajamos con los modelos de distribución",
+                        "Distribución realizada por Santander Securities Services, con procesos estructurados de KYC, registro y seguimiento de la base de clientes.",
+                        "Distribución de terceros, con aplicación de Due Diligence y contratación por parte de SC.",
+                        "Distribución directa o Cuenta y orden estructura y escala operativa para atender ambos tipos de distribución.",
+                        "Todos los modelos cuentan con procesos a través de plataformas digitales",
+                        "Registro Digital portal de interacción entre SC, proveedores e inversores, para una experiencia de registro ágil y práctica con firma digital.",
+                        "Portal de Proveedores un canal único de comunicación que permitirá realizar solicitudes de actos sociales, intercambio de información, presentación de documentos y seguimiento de demandas ante SC.",
+                        "Custodia calificada",
+                        "Custodia centralizada de fondos y carteras de inversión, que cubre la liquidación física y financiera y la custodia de activos.",
+                        "Instrucciones de manejo para mover y gestionar la información de eventos asociados a los activos.",
+                        "Gestión y seguimiento on-line de la caja de los fondos de inversión.",
+                        "Conciliación diaria de activos y posiciones de activos.",
+                        "Representación 4373",
+                        "Servicios de Custodia y Representación Legal amparados por la Resolución CMN 4.373 e ICVM 560.",
+                        "Solución integrada de servicios vinculados a la actividad, con la estructura del Banco Santander, es decir, Correduría, F/X etc.",
+                        "Sistema global con arquitectura abierta, capaz de manejar los más variados tipos de operaciones en el mercado local.",
+                        "Equipo centralizado y especializado para atender a clientes extranjeros.",
+                        "Atención a diferentes tipos de estructuras y clientes Cuentas Colectivas y Propias.",
+                        "Información de mercado, proporcionando información de mercado relevante.",
+                        "Apoyo a eventos corporativos y procesos de delegación de votos.",
+                        "Contraloría",
+                        "Servicio dedicado a la compañía de seguros.",
+                        "Control de activos y pasivos.",
+                        "Precios de activos en carteras.",
+                        "Provisión de honorarios y gastos.",
+                        "Plataforma web para acceder a la información de los pasivos y sus posiciones.",
+                        "Gestión de procedimientos contables.",
+                        "Tramitación y cálculo de cuotas.",
+                        "Divulgación de la rentabilidad de las carteras de fondos.",
+                        "Middle Office Offshore",
+                        "Estructura de ejecución operativa para apoyar a los gestores que acceden al mercado internacional.",
+                        "Interfaz y relación con gestores y contrapartes.",
+                        "Envío de operaciones a NAV Calculator, Prime Brokers y Markit (IRS).",
+                        "Recepción, pre casación y seguimiento del 100% de las operaciones.",
+                        "Afirmación y confirmación comercial.",
+                        "Apoyo a las dudas de los directivos.",
+                        "Transferencias, pagos y liquidación de operaciones.",
+                        "Conciliación y control de saldos de cuentas.",
+                        "Acción proactiva sobre inconsistencias a lo largo del proceso.",
+                        "Mejora de procesos y resolución de roturas.",
+                        "Asistencia con información y preguntas de auditoría."
+                    ]
+                },
+                {
+                    "area": "#produtos",
+                    "strings": [
+                        "Productos",
+                        "Cartera Administrada",
+                        "Plataforma de atención personalizada.",
+                        "Arquitectura de inversión abierta para todo tipo de activos.",
+                        "Centralización de la custodia.",
+                        "Herramienta web para el registro de operaciones y consulta de reportes de información reportes de posición, movimiento y notas comerciales.",
+                        "Recaudación de impuestos y emisión del Informe de Renta.",
+                        "Fondo 555",
+                        "Tratamiento y control de las particularidades de toda clase de fondos, con herramienta de control y marco de Restricciones de Mandato y Normas Regulatorias.",
+                        "Alianzas con plataformas globales de inversión en el exterior.",
+                        "Plataforma web SANTANDEROPER para facturación y consulta de información, con cadenas de acceso configurables.",
+                        "Integración vía webservices de movimientos de activos y pasivos.",
+                        "Soluciones automáticas de caja cero, con fondos con comisiones más bajas que la competencia y mejores rendimientos.",
+                        "Supervisar la caja de los fondos de inversión.",
+                        "Fondo de inversión de renta variable",
+                        "Trabajamos con estructuras de Fondos de Dotación y Entidades de Inversión.",
+                        "Personalización de estructuras para diferentes tipos de inversión.",
+                        "Equipo dedicado al servicio del producto.",
+                        "Proceso robusto que se adhiere a los estándares regulatorios para la evaluación de las participadas.",
+                        "Agilidad en el proceso de estructuración de fondos.",
+                        "Trayectoria y liderazgo comprobados.",
+                        "Fondo de inversión de derechos de crédito",
+                        "Trabajamos con estructuras FIDC para Infraestructura y Crédito Corporativo, Utilities, Agro, Industria y Comercio Unidireccional, Financiero e Inmobiliario.",
+                        "Solución completa para la Administración Fiduciaria, Custodia y Contraloría de activos y pasivos.",
+                        "Plataforma integrada con los productos de Cash Management de Banco Santander.",
+                        "Estructura interna para monitoreo de lastre financiero.",
+                        "Fondo de efectivo",
+                        "Gama de fondos disponibles en SC, con comisiones de gestión más bajas que la competencia y con mejor rentabilidad.",
+                        "Opción de servicio de puesta a cero automática en los fondos, para agilidad operativa del día a día.",
+                        "Acceso a otros fondos de Santander Asset Management.",
+                        "Inversiones inmobiliarias",
+                        "Fondos de asignación de valores (Cuotas CRI, LCI, LH y FII).",
+                        "Asignación de fondos en activos inmobiliarios con el objetivo de Renta y Venta (inmuebles listos con el objetivo de ganancias por arrendamiento y venta).",
+                        "Fondos de Asignación Mixta (estrategia que puede incluir las distintas tipologías anteriores).",
+                        "Inversiones Offshore ",
+                        "Proceso de Gobernanza para la aprobación de Proveedores offshore RTA, NAV, Broker, etc.",
+                        "Flexibilidad en el proceso de intercambio de información.",
+                        "Autonomía de análisis de nuevos socios, según preferencia del cliente.",
+                        "Ampliación de la asignación de fondos locales en activos y fondos del mercado internacional, a través de proveedores globales asociados.",
+                        "Morgan Stanley Reconocido a nivel mundial por la liquidación, custodia y negociación de activos en el extranjero.",
+                        "AllFunds Plataforma con una extensa lista de fondos y gestoras en el mercado offshore."
+                    ]
+                }
+            ]
+        },
+        {
+            "pageUrl": "../es/contacto.html",
+            "pageTitle": "Contacto",
+            "pageThumb": "images/thumb-contatos-es.jpg",
+            "pageDesc": "Servicio al Cliente (SAC), Oidoría y Canal abierto",
+            "texts": [
+                {
+                    "area": "#title",
+                    "strings": [
+                        "Contacto"
+                    ]
+                },
+                {
+                    "area": "#atendimento",
+                    "strings": [
+                        "Contacto",
+                        "Servicio al Cliente (SAC)",
+                        "Reclamaciones, cancelaciones, sugerencias e información general. También atiende a personas con discapacidad auditiva o del habla.",
+                        "Servicio: De lunes a viernes, de 9 a 18 horas, excepto festivos.",
+                        "4004 4412 (capital y regiones metropolitanas)",
+                        "0800 722 4412 (otras regiones)",
+                        "sc_faleconosco@s3caceis.com.br",
+                        "Dirección de envio:",
+                        "R. Amador Bueno, 474, 1° piso, Barrio Verde – Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Oidoría ",
+                        "Si no está satisfecho con la solución presentada, envíe su reclamación a sc_ouvidoria@s3caceis.com.br o llame al 0800 723 5076.",
+                        "Servicio: De lunes a viernes, de 9 a 18 horas, excepto festivos.",
+                        "Asistencia para personas con discapacidad auditiva o del habla: sc_ouvidoria@s3caceis.com.br.",
+                        "Dirección de envio:",
+                        "R. Amador Bueno, 474, 1° piso, Barrio Azul, Santo Amaro, São Paulo/SP, CEP: 04752-005.",
+                        "Canal abierto",
+                        "Canal dedicado a denunciar o aclarar dudas relacionadas con conductas inapropiadas o poco éticas. El servicio es a través de Banco Santander. Este canal es confidencial y la manifestación puede ser identificada o anónima.",
+                        "0800 282 7374",
+                        "canalaberto@santander.com.br"
+                    ]
+                }
+            ]
+        }
+    ]
+}

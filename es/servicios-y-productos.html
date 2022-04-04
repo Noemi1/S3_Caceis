@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Servicios y Productos | S3 CACEIS</title>
+
+    <link rel="icon" href="../images/icons/cropped-favicon-32x32.png" sizes="32x32">
+    <link rel="icon" href="../images/icons/cropped-favicon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="../images/icons/cropped-favicon-180x180.png">
+    <meta name="msapplication-TileImage" content="../images/icons/cropped-favicon-270x270.png">
+
+    <script src="../js/jquery-3.6.0.js"></script>
+    <script src="../js/aos.js"></script>
+
+    <link rel="stylesheet" href="../css/aos.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/mobile.css">
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="../es/">
+                        <img src="../images/logo.png" alt="S3 Caceis Investor Serices">
+                    </a>
+                </div>
+
+                <div class="header-navigation">
+                    <nav class="navbar">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse">
+                            <ul class="main-menu">
+                                <li class="menu-item">
+                                    <a href="../es/quienes-somos.html" itemprop="url">Quienes Somos</a>
+                                </li>
+                                <li class="menu-item current-menu-item">
+                                    <a href="../es/servicios-y-productos.html" itemprop="url">Servicios y Productos</a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="../es/contacto.html" aria-current="page" itemprop="url">Contacto</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+
+                    <a class="btn-login" href="https://s3caceis.com.br/">Login</a>
+
+                    <button class="search-button"
+                        onclick="jQuery('#search').fadeIn().addClass('is-active');jQuery('#s').focus()">
+                        <img src="../images/busca.svg">
+                    </button>
+
+                    <div class="lang-selector">
+                        <button class="btn-dropdown-lang es"
+                            onclick="$('.items-dropdown-lang').toggleClass('active');"></button>
+                        <ul class="items-dropdown-lang">
+                            <li class="lang-item lang-item-2 lang-item-pt lang-item-first"><a lang="pt-BR"
+                                    hreflang="pt-BR" href="../servicos-e-produtos.html">pt</a></li>
+                            <li class="lang-item lang-item-4 lang-item-en"><a lang="en-US" hreflang="en-US"
+                                    href="../en/services-and-products.html">en</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div id="search" class="header-search">
+        <form action="../es/busca.html" method="get" accept-charset="utf-8" id="searchform" role="search"
+            class="search-form">
+            <div class="search-container">
+                <input type="search" name="s" id="s" value="" placeholder="Buscar...">
+                <button class="search-button-inside" type="submit"><img src="../images/busca-white.svg"></button>
+            </div>
+        </form>
+    </div>
+
+    <div id="title" class="section-title-inside" style="background-image: url(../images/header-servicos-produtos.jpg);">
+        <div class="container">
+            <h1>Servicios y Productos</h1>
+        </div>
+    </div>
+
+    <section id="servicos" class="section-3">
+        <div class="container">
+            <h2 class="sub-title">Servicios</h2>
+            <div class="slide-servicos-container aos-init aos-animate" data-aos="fade-down">
+                <div class="slide-servicos">
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">1. </span><span class="title">Administración
+                                Fiduciaria</span></h3>
+                        <div class="servico-text">
+                            <ul>
+                                <li>Evaluación económica y financiera periódica de los emisores de crédito privado.</li>
+                                <li>Centralización y homogeneización de la normativa de fondos de inversión.</li>
+                                <li>Coordinación de procesos societarios y contractuales de fondos de inversión.</li>
+                                <li>Seguimiento de los intermediarios utilizados en las operaciones de los fondos.</li>
+                                <li>Monitoreo del Riesgo de Liquidez de fondos individuales.</li>
+                                <li>Due diligence de los gestores externos.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">2. </span><span class="title">Distribución</span>
+                        </h3>
+                        <div class="servico-text">
+                            <p><strong>Trabajamos con los modelos de distribución:</strong></p>
+                            <ul>
+                                <li><strong>Distribución</strong> realizada por Santander Securities Services, con
+                                    procesos estructurados de KYC, registro y seguimiento de la base de clientes.</li>
+                                <li><strong>Distribución de terceros</strong>, con aplicación de Due Diligence y
+                                    contratación por parte de SC.</li>
+                                <li><strong>Distribución directa o Cuenta y orden</strong>: estructura y escala
+                                    operativa para atender ambos tipos de distribución.</li>
+                            </ul>
+                            <p><strong>Todos los modelos cuentan con procesos a través de plataformas
+                                    digitales:</strong></p>
+                            <ul>
+                                <li><strong> Registro Digital:</strong> portal de interacción entre SC, proveedores e
+                                    inversores, para una experiencia de registro ágil y práctica con firma digital.</li>
+                                <li><strong> Portal de Proveedores:</strong> un canal único de comunicación que
+                                    permitirá realizar solicitudes de actos sociales, intercambio de información,
+                                    presentación de documentos y seguimiento de demandas ante SC.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">3. </span><span class="title">Custodia
+                                calificada</span></h3>
+                        <div class="servico-text">
+                            <ul>
+                                <li>Custodia centralizada de fondos y carteras de inversión, que cubre la liquidación
+                                    física y financiera y la custodia de activos.</li>
+                                <li>Instrucciones de manejo para mover y gestionar la información de eventos asociados a
+                                    los activos.</li>
+                                <li>Gestión y seguimiento on-line de la caja de los fondos de inversión.</li>
+                                <li>Conciliación diaria de activos y posiciones de activos.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">4. </span><span class="title">Representación
+                                4373</span></h3>
+                        <div class="servico-text">
+                            <ul>
+                                <li>Servicios de Custodia y Representación Legal amparados por la Resolución CMN 4.373 e
+                                    ICVM 560.</li>
+                                <li>Solución integrada de servicios vinculados a la actividad, con la estructura del
+                                    Banco Santander, es decir, Correduría, F/X etc.</li>
+                                <li>Sistema global con arquitectura abierta, capaz de manejar los más variados tipos de
+                                    operaciones en el mercado local.</li>
+                                <li>Equipo centralizado y especializado para atender a clientes extranjeros.</li>
+                                <li>Atención a diferentes tipos de estructuras y clientes: Cuentas Colectivas y Propias.
+                                </li>
+                                <li>Información de mercado, proporcionando información de mercado relevante.</li>
+                                <li>Apoyo a eventos corporativos y procesos de delegación de votos.</li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">5. </span><span class="title">Contraloría</span>
+                        </h3>
+                        <div class="servico-text">
+                            <ul>
+                                <li>Servicio dedicado a la compañía de seguros.</li>
+                                <li>Control de activos y pasivos.</li>
+                                <li>Precios de activos en carteras.</li>
+                                <li>Provisión de honorarios y gastos.</li>
+                                <li>Plataforma web para acceder a la información de los pasivos y sus posiciones.</li>
+                                <li>Gestión de procedimientos contables.</li>
+                                <li>Tramitación y cálculo de cuotas.</li>
+                                <li>Divulgación de la rentabilidad de las carteras de fondos.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="servico">
+                        <h3 class="servico-title"><span class="number">6. </span><span class="title">Middle Office
+                                Offshore</span></h3>
+                        <div class="servico-text">
+                            <ul>
+                                <li>Estructura de ejecución operativa para apoyar a los gestores que acceden al mercado
+                                    internacional.</li>
+                                <li>Interfaz y relación con gestores y contrapartes.</li>
+                                <li>Envío de operaciones a NAV Calculator, Prime Brokers y Markit (IRS).</li>
+                                <li>Recepción, pre casación y seguimiento del 100% de las operaciones.</li>
+                                <li>Afirmación y confirmación comercial.</li>
+                                <li>Apoyo a las dudas de los directivos.</li>
+                                <li>Transferencias, pagos y liquidación de operaciones.</li>
+                                <li>Conciliación y control de saldos de cuentas.</li>
+                                <li>Acción proactiva sobre inconsistencias a lo largo del proceso.</li>
+                                <li>Mejora de procesos y resolución de roturas.</li>
+                                <li>Asistencia con información y preguntas de auditoría.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); servicos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+                </div>
+                <div class="lSAction"><a class="lSPrev"></a><a class="lSNext"></a></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="produtos" class="section-4">
+        <div class="container">
+            <h2 class="sub-title">Productos</h2>
+            <div class="slide-produtos-container aos-init" data-aos="fade-down">
+                <div class="slide-produtos">
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">1. </span><span class="title">Cartera
+                                Administrada</span></h3>
+                        <div class="produto-text">
+                            <ul>
+                                <li>Plataforma de atención personalizada.</li>
+                                <li>Arquitectura de inversión abierta para todo tipo de activos.</li>
+                                <li>Centralización de la custodia.</li>
+                                <li>Herramienta web para el registro de operaciones y consulta de reportes de
+                                    información: reportes de posición, movimiento y notas comerciales.</li>
+                                <li>Recaudación de impuestos y emisión del Informe de Renta.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">2. </span><span class="title">Fondo 555</span>
+                        </h3>
+                        <div class="produto-text">
+                            <p>Tratamiento y control de las particularidades de toda clase de fondos, con herramienta de
+                                control y marco de Restricciones de Mandato y Normas Regulatorias.</p>
+                            <ul>
+                                <li>Alianzas con plataformas globales de inversión en el exterior.</li>
+                                <li>Plataforma web SANTANDEROPER para facturación y consulta de información, con cadenas
+                                    de acceso configurables.</li>
+                                <li>Integración vía webservices de movimientos de activos y pasivos.</li>
+                                <li>Soluciones automáticas de caja cero, con fondos con comisiones más bajas que la
+                                    competencia y mejores rendimientos.</li>
+                                <li>Supervisar la caja de los fondos de inversión.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">3. </span><span class="title">Fondo de inversión
+                                de renta variable</span></h3>
+                        <div class="produto-text">
+                            <p>Trabajamos con estructuras de Fondos de Dotación y Entidades de Inversión.</p>
+                            <ul>
+                                <li>Personalización de estructuras para diferentes tipos de inversión.</li>
+                                <li>Equipo dedicado al servicio del producto.</li>
+                                <li>Proceso robusto que se adhiere a los estándares regulatorios para la evaluación de
+                                    las participadas.</li>
+                                <li>Agilidad en el proceso de estructuración de fondos.</li>
+                                <li>Trayectoria y liderazgo comprobados.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">4. </span><span class="title">Fondo de inversión
+                                de derechos de crédito</span></h3>
+                        <div class="produto-text">
+                            <p>Trabajamos con estructuras FIDC para Infraestructura y Crédito Corporativo, Utilities,
+                                Agro, Industria y Comercio Unidireccional, Financiero e Inmobiliario.</p>
+                            <ul>
+                                <li>Solución completa para la Administración Fiduciaria, Custodia y Contraloría de
+                                    activos y pasivos.</li>
+                                <li>Plataforma integrada con los productos de Cash Management de Banco Santander.</li>
+                                <li>Estructura interna para monitoreo de lastre financiero.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">5. </span><span class="title">Fondo de
+                                efectivo</span></h3>
+                        <div class="produto-text">
+                            <ul>
+                                <li>Gama de fondos disponibles en SC, con comisiones de gestión más bajas que la
+                                    competencia y con mejor rentabilidad.</li>
+                                <li>Opción de servicio de puesta a cero automática en los fondos, para agilidad
+                                    operativa del día a día.</li>
+                                <li>Acceso a otros fondos de Santander Asset Management.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">6. </span><span class="title">Inversiones
+                                inmobiliarias</span></h3>
+                        <div class="produto-text">
+                            <ul>
+                                <li>Fondos de asignación de valores (Cuotas CRI, LCI, LH y FII).</li>
+                                <li>Asignación de fondos en activos inmobiliarios con el objetivo de Renta y Venta
+                                    (inmuebles listos con el objetivo de ganancias por arrendamiento y venta).</li>
+                                <li>Fondos de Asignación Mixta (estrategia que puede incluir las distintas tipologías
+                                    anteriores).</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+
+                    <div class="produto">
+                        <h3 class="produto-title"><span class="number">7. </span><span class="title">Inversiones
+                                Offshore </span></h3>
+                        <div class="produto-text">
+                            <p>Proceso de Gobernanza para la aprobación de Proveedores offshore: RTA, NAV, Broker, etc.
+                            </p>
+                            <ul>
+                                <li>Flexibilidad en el proceso de intercambio de información.</li>
+                                <li>Autonomía de análisis de nuevos socios, según preferencia del cliente.</li>
+                                <li>Ampliación de la asignación de fondos locales en activos y fondos del mercado
+                                    internacional, a través de proveedores globales asociados.</li>
+                                <li><strong>Morgan Stanley</strong>: Reconocido a nivel mundial por la liquidación,
+                                    custodia y negociación de activos en el extranjero.</li>
+                                <li><strong>AllFunds:</strong> Plataforma con una extensa lista de fondos y gestoras en
+                                    el mercado offshore.</li>
+                            </ul>
+                        </div>
+                        <button class="saiba-mais"
+                            onclick="$(this).prev().toggleClass('opened'); $(this).toggleClass('opened'); produtos.slick('refresh');">Leer
+                            más</button>
+                    </div>
+                </div>
+                <div class="lSAction"><a class="lSPrev"></a><a class="lSNext"></a></div>
+            </div>
+        </div>
+        <div class="align-center">
+            <a class="link-bottom" href="../es/contacto.html">Entre en contacto conosco</a>
+        </div>
+    </section>
+
+    <link rel="stylesheet" href="../css/lightslider.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/slick.css">
+    <link rel="stylesheet" type="text/css" href="../css/slick-theme.css">
+
+    <script type="text/javascript" src="../js/slick.min.js"></script>
+
+
+    <script>
+
+        var servicos, produtos;
+
+        $(document).ready(function () {
+            produtos = $(".slide-produtos").slick({
+                slidesToShow: 3,
+                //slideMargin: 0,
+                //dots: false,
+                arrows: false,
+                adaptiveHeight: true,
+                slidesToScroll: 3,
+
+                // the magic
+                responsive: [{
+
+                    breakpoint: 1100,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+
+                }, {
+
+                    breakpoint: 991,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+
+                }]
+            });
+
+            servicos = $(".slide-servicos").slick({
+                slidesToShow: 3,
+                //slideMargin: 0,
+                //dots: false,
+                arrows: false,
+                adaptiveHeight: true,
+                slidesToScroll: 3,
+                nextArrow: "<a class='lSNext'></a>",
+
+                // the magic
+                responsive: [{
+
+                    breakpoint: 1100,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+
+                }, {
+
+                    breakpoint: 991,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+
+                }]
+            });
+
+
+            $(".saiba-mais").each(function (i, e) {
+                var element = $(this).prev();
+                if (element.prop('scrollHeight') > element.height()) {
+                    $(this).show();
+                }
+                else {
+                    $(this).hide();
+                }
+            });
+
+        });
+
+        $('.slide-produtos-container .lSPrev').on('click', function () {
+            produtos.slick('slickPrev');
+        });
+
+        $('.slide-produtos-container .lSNext').on('click', function () {
+            produtos.slick('slickNext');
+        });
+
+        $('.slide-servicos-container .lSPrev').on('click', function () {
+            servicos.slick('slickPrev');
+        });
+
+        $('.slide-servicos-container .lSNext').on('click', function () {
+            servicos.slick('slickNext');
+        });
+
+    </script>
+
+    <footer>
+        <div class="footer-info">
+            <div class="container">
+                <div class="footer-info-content">
+                    <div class="footer-info-text">
+                        <p><b>© 2022 S3 Caceis Brasil DTVM S.A.. CNPJ: 62.318.407/0001-19</b></p>
+                        <p>Endereço - CEP 04752-005 - São Paulo - Brasil</p>
+                    </div>
+                    <div class="footer-info-links">
+                        <a target="_blank"
+                            href="https://www.santander.com.br/portal/wps/script/atendimento/fraudes/AtendimentoFraudes.do">Reportalo</a>
+                        <a target="_blank" href="https://comoinvestir.anbima.com.br/">Como invertir</a>
+                        <a target="_blank" href="../images/Politica-de-Privacidade-2021.pdf">Política
+                            de privacidad</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="container"><a href="../images/Ambima.pdf" target="_blank"><img src="../images/seloAnbima2.jpg"
+                        alt="Este proveedor de servicios se ha comprometido a cumplir con los estándares mínimos exigidos por el Código ANBIMA de Regulación y Mejores Prácticas para Servicios Calificados al Mercado de Capitales, y ANBIMA no es responsable por los servicios prestados, ni por los actos o hechos derivados de los mismos o de los mismos. ."></a><a
+                    href="../images/Codigo_Fundos_20150701.pdf" target="_blank"><img src="../images/seloAnbima1.jpg"
+                        alt="Esta institución se ha adherido al Código ANBIMA de Regulación y Mejores Prácticas para Fondos de Inversión."></a><img
+                    src="../images/abvcap-small-margin.jpg"
+                    alt="Asociación Brasileña de Private Equity y Venture Capital - ABVCAP"></div>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function () {
+            AOS.init({
+                once: true,
+            });
+        });
+
+        jQuery('#search').on('click', function (e) {
+            //e.stopPropagation();
+            //e.preventDefault();
+            if (event.target == this) {
+                jQuery(this).fadeOut().removeClass('is-active');
+            }
+        });
+
+        jQuery('.navbar-toggle').on('click', function (e) {
+            jQuery(this).toggleClass('collapsed');
+            jQuery('.navbar-collapse').toggleClass('collapse');
+        });
+    </script>
+
+</body>
+
+</html>
